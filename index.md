@@ -4,3 +4,4 @@ This is a project of [mind maps](https://en.wikipedia.org/wiki/Mind_map) of inte
 
 1. [C data types](c_data_types.html)
 2. [Python data types](python_data_types.html)
+3. [Distance Measures](distance.html)
